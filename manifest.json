@@ -1,0 +1,47 @@
+{
+    "schema": 1,
+    "items": [
+        {
+            "ruta": "anuncios/2026-10-28_143cfcad7e44.png",
+            "titulo": "El Ministerio de Turismo recibe certificación del Sistema de Gestión Antisoborno otorgada",
+            "descripcion": "El Ministerio de Turismo recibe la certificación de su Sistema de Gestión Antisoborno, conforme a la Norma ISO 37001, otorgada por el Organismo Salvadoreño de Normalización, tras un riguroso proceso de evaluación independiente.\r\n\r\nEsta certificación acredita que la institución cumple con los más altos estándares internacionales en materia de prevención, detección y gestión del soborno, consolidando mecanismos efectivos de transparencia, control interno, gestión de riesgos.",
+            "fecha": "2026-10-30",
+            "tamano": "small"
+        },
+        {
+            "ruta": "noticias/2026-10-29_a726d333ffad.png",
+            "titulo": "UNA EXPERIENCIA ÚNICA - BCR",
+            "descripcion": "A través de esta experiencia educativa, los jóvenes de 13 a 18 años aprenden a utilizar servicios como: Transfer365, realizar pagos con POS, NPE y billeteras digitales, además de conocer los atractivos turísticos del país mediante tecnología inmersiva. El recorrido de “Mi Viaje Financiero” comenzó en la zona occidental y se ha expandido a lo largo y ancho del territorio nacional. Desde El Refugio, Juayúa,\r\nAtiquizaya hasta Santa Rosa de Lima, ETC.\r\n\r\nhttps://openlotussv.github.io/Website/",
+            "fecha": "2026-10-30",
+            "tamano": "wide"
+        },
+        {
+            "ruta": "anuncios/2026-10-29_050961113d07.png",
+            "titulo": "WHATSAPP - COMUNICATE!",
+            "descripcion": "Contáctanos\r\n\r\n- No olvides comunicarte a nuestras redes sociales\r\n- FACEBOOK INSTAGRAM, TIKTOK, WHATSAPP.",
+            "fecha": "2026-10-30",
+            "tamano": "small"
+        },
+        {
+            "ruta": "anuncios/2026-10-30_65b993dbc792.png",
+            "titulo": "Tercer recordatorio  | https://factura.gob.sv/ DTE 2.0",
+            "descripcion": "¿Está listo con los cambios de la Normativa de Cumplimiento de los DTE 2.0? Plazo cierra el 01 de diciembre 2026?\r\n\r\nla transmisión de sus Documentos Tributarios Electrónicos (DTE).\r\n\r\nLe recordamos que el próximo 01 de diciembre de 2026 vence el plazo oficial otorgado\r\n\r\npor el Ministerio de Hacienda para implementar las adecuaciones de la Normativa de\r\n\r\nCumplimiento de los DTE Versión 2.0. Esta medida es obligatoria para todos los\r\n\r\ncontribuyentes que utilizan la plataforma Sistema propio.",
+            "fecha": "2026-10-30",
+            "tamano": "wide"
+        },
+        {
+            "ruta": "noticias/2026-10-29_facturacion-electronica-hacienda.png",
+            "titulo": "Facturacion electronica hacienda",
+            "descripcion": "- Soluciones para tu negocio.",
+            "fecha": "2026-10-29",
+            "tamano": "large"
+        },
+        {
+            "ruta": "cambios/2026-10-28_d8524bf985e2.png",
+            "titulo": "Actualización v1.9.2",
+            "descripcion": "Actualizaciones, Permisos heredados, CLI, condiciones de dimensiones, ajuste de mosaicos, novedades, ajustes de vistas.",
+            "fecha": "2026-10-28",
+            "tamano": "wide"
+        }
+    ]
+}
