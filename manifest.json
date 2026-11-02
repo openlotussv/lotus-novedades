@@ -42,6 +42,14 @@
             "descripcion": "Actualizaciones, Permisos heredados, CLI, condiciones de dimensiones, ajuste de mosaicos, novedades, ajustes de vistas.",
             "fecha": "2026-10-28",
             "tamano": "wide"
+        },
+        {
+            "ruta": "anuncios/2026-11-01_03ff10179908.png",
+            "titulo": "Luna Cloud Book",
+            "descripcion": "Sitio WEB para la lectura de libros en PDF de todo tipo de temas, ingresa  y divierte leyendo y aprendiendo, sin anuncios ni distracciones.\r\n\r\nhttps://openlotussv.github.io/biblioteca_SV/",
+            "fecha": "2026-11-01",
+            "tamano": "wide",
+            "sha256": "3b60bf4f5b5fd5df61b6cf0bbb66492f58eb70500fecfddc5c88ea8cec0823a8"
         }
     ]
 }
