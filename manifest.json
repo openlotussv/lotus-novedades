@@ -2,13 +2,6 @@
     "schema": 1,
     "items": [
         {
-            "ruta": "anuncios/2026-10-29_050961113d07.png",
-            "titulo": "WHATSAPP - COMUNICATE!",
-            "descripcion": "Contáctanos\r\n\r\n- No olvides comunicarte a nuestras redes sociales\r\n- FACEBOOK INSTAGRAM, TIKTOK, WHATSAPP.",
-            "fecha": "2026-10-30",
-            "tamano": "small"
-        },
-        {
             "ruta": "anuncios/2026-10-30_65b993dbc792.png",
             "titulo": "Tercer recordatorio  | https://factura.gob.sv/ DTE 2.0",
             "descripcion": "¿Está listo con los cambios de la Normativa de Cumplimiento de los DTE 2.0? Plazo cierra el 01 de diciembre 2026?\r\n\r\nla transmisión de sus Documentos Tributarios Electrónicos (DTE).\r\n\r\nLe recordamos que el próximo 01 de diciembre de 2026 vence el plazo oficial otorgado\r\n\r\npor el Ministerio de Hacienda para implementar las adecuaciones de la Normativa de\r\n\r\nCumplimiento de los DTE Versión 2.0. Esta medida es obligatoria para todos los\r\n\r\ncontribuyentes que utilizan la plataforma Sistema propio.",
@@ -36,6 +29,14 @@
             "fecha": "2026-11-01",
             "tamano": "wide",
             "sha256": "3b60bf4f5b5fd5df61b6cf0bbb66492f58eb70500fecfddc5c88ea8cec0823a8"
+        },
+        {
+            "ruta": "anuncios/2026-10-29_050961113d07.png",
+            "titulo": "WHATSAPP - COMUNICATE!",
+            "descripcion": "Contáctanos\r\n\r\n- No olvides comunicarte a nuestras redes sociales\r\n- FACEBOOK INSTAGRAM, TIKTOK, WHATSAPP.",
+            "fecha": "2026-11-10",
+            "tamano": "small",
+            "sha256": "b72c9776f978fec7bacd2403a427622509a6e0bf5b002abecf5ef80c798c8b8d"
         }
     ]
 }
