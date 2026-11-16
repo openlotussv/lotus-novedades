@@ -9,13 +9,6 @@
             "tamano": "wide"
         },
         {
-            "ruta": "noticias/2026-10-29_facturacion-electronica-hacienda.png",
-            "titulo": "Facturacion electronica hacienda",
-            "descripcion": "- Soluciones para tu negocio.",
-            "fecha": "2026-10-29",
-            "tamano": "large"
-        },
-        {
             "ruta": "cambios/2026-10-28_d8524bf985e2.png",
             "titulo": "Actualización v1.9.2",
             "descripcion": "Actualizaciones, Permisos heredados, CLI, condiciones de dimensiones, ajuste de mosaicos, novedades, ajustes de vistas.",
