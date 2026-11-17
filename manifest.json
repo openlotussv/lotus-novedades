@@ -17,20 +17,20 @@
             "sha256": "3b60bf4f5b5fd5df61b6cf0bbb66492f58eb70500fecfddc5c88ea8cec0823a8"
         },
         {
-            "ruta": "anuncios/2026-10-29_050961113d07.png",
-            "titulo": "WHATSAPP - COMUNICATE!",
-            "descripcion": "Contáctanos\r\n\r\n- No olvides comunicarte a nuestras redes sociales\r\n- FACEBOOK INSTAGRAM, TIKTOK, WHATSAPP.",
-            "fecha": "2026-11-10",
-            "tamano": "small",
-            "sha256": "b72c9776f978fec7bacd2403a427622509a6e0bf5b002abecf5ef80c798c8b8d"
-        },
-        {
             "ruta": "cambios/2026-10-28_d8524bf985e2.png",
             "titulo": "Actualización v2.0.7",
             "descripcion": "Actualizaciones, Permisos heredados, CLI, condiciones de dimensiones, ajuste de mosaicos, novedades, ajustes de vistas.",
             "fecha": "2026-10-28",
             "tamano": "wide",
             "sha256": "690d181276572c29dd3402bb39e5f17ac03267aef79f422c7b615a1bcc6db2ec"
+        },
+        {
+            "ruta": "anuncios/2026-10-29_050961113d07.png",
+            "titulo": "WHATSAPP - COMUNICATE!",
+            "descripcion": "Contáctanos\r\n\r\n- No olvides comunicarte a nuestras redes sociales\r\n- FACEBOOK INSTAGRAM, TIKTOK, WHATSAPP.",
+            "fecha": "2026-11-16",
+            "tamano": "small",
+            "sha256": "b72c9776f978fec7bacd2403a427622509a6e0bf5b002abecf5ef80c798c8b8d"
         }
     ]
 }
