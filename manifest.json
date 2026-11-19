@@ -26,8 +26,8 @@
         },
         {
             "ruta": "cambios/2026-10-28_d8524bf985e2.png",
-            "titulo": "Actualización v2.0.8",
-            "descripcion": "Reporte de cierre y arqueo en Excel (.xlsx) para turnos cerrados, con boton de descarga en el historial de caja. Ademas, la firma de autor viaja siempre en el instalador y en cada actualizacion: toda PC instalada la recibe automaticamente.",
+            "titulo": "Actualización v2.0.10",
+            "descripcion": "Correccion de PDF de facturas y tickets: una sola pagina, ajustada al contenido real, sin desplazamiento por scroll y con QR legible. Factura formal de consumidor final y credito fiscal validadas. Incluye mejoras de instalador y verificacion. El modulo de Costos y Rentabilidad (Balance de ventas) queda pendiente para una proxima actualizacion.",
             "fecha": "2026-10-28",
             "tamano": "wide",
             "sha256": "690d181276572c29dd3402bb39e5f17ac03267aef79f422c7b615a1bcc6db2ec"
