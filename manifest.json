@@ -23,6 +23,14 @@
             "fecha": "2026-10-28",
             "tamano": "wide",
             "sha256": "690d181276572c29dd3402bb39e5f17ac03267aef79f422c7b615a1bcc6db2ec"
+        },
+        {
+            "ruta": "noticias/2026-11-24_ff826976d1a6.png",
+            "titulo": "Mediplus - es un LOTUS AMIGO",
+            "descripcion": "Farmacia, cerca de ti!\r\nUbicada en El congo Santa Ana, con todo lo que necesites en medicina y mas!!",
+            "fecha": "2026-11-24",
+            "tamano": "small",
+            "sha256": "de6740b9d692b0d3f5a244fb28f62ccd3103b8a1910551ecc79866bbf659c586"
         }
     ]
 }
