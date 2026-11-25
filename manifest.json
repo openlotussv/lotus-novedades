@@ -26,8 +26,8 @@
         },
         {
             "ruta": "cambios/2026-10-28_d8524bf985e2.png",
-            "titulo": "Actualización v2.0.10",
-            "descripcion": "Correccion de PDF de facturas y tickets: una sola pagina, ajustada al contenido real, sin desplazamiento por scroll y con QR legible. Factura formal de consumidor final y credito fiscal validadas. Incluye mejoras de instalador y verificacion. El modulo de Costos y Rentabilidad (Balance de ventas) queda pendiente para una proxima actualizacion.",
+            "titulo": "Actualización v2.0.17",
+            "descripcion": "Provisionamiento seguro de clave de cifrado en Termux para habilitar el token de GitHub en Novedades.",
             "fecha": "2026-10-28",
             "tamano": "wide",
             "sha256": "690d181276572c29dd3402bb39e5f17ac03267aef79f422c7b615a1bcc6db2ec"
